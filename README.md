@@ -1,5 +1,5 @@
 # Process Scheduling Algorithm Project
-##Introduction
+## Introduction
 This project implements two process scheduling algorithms: First Come First Serve (FCFS) and Round Robin (RR). The goal of this project is to collect data about these algorithms and compare their results. Additionally, a graphical user interface (GUI) has been added to visualize the FCFS and RR algorithms in action.
 
 ## Features
