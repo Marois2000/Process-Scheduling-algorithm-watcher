@@ -10,16 +10,18 @@ A graphical user interface (GUI) for visualizing the FCFS and RR algorithms.
 ## Getting Started
 To try out the project, you can download the executable JAR file provided in this repository.
 
-## Prerequisites
-Java Runtime Environment (JRE) installed on your system.
-Running the Application
-Download the process-scheduling.jar file from this repository.
-Open a terminal or command prompt.
-Navigate to the directory where you downloaded the JAR file.
-Run the following command to execute the application:
-shell
-Copy code
-java -jar process-scheduling.jar (or simply double click the executeable file in your file explorer)
+### Prerequisites
+- Java Runtime Environment (JRE) installed on your system.
+
+### Running the Application
+1. Download the process-scheduling.jar file from this repository.
+2. Open a terminal or command prompt.
+3. Navigate to the directory where you downloaded the JAR file.
+4. Run the following command to execute the application:
+   ```shell
+    Copy code
+    java -jar process-scheduling.jar
+Or simply double click the executeable file in your file explorer
 
 ## Using the GUI
 Once the application is running, you can use the GUI to:
