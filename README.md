@@ -19,7 +19,6 @@ To try out the project, you can download the executable JAR file provided in thi
 3. Navigate to the directory where you downloaded the JAR file.
 4. Run the following command to execute the application:
    ```shell
-    Copy code
     java -jar process-scheduling.jar
 Or simply double click the executeable file in your file explorer
 
